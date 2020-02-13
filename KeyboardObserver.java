@@ -21,7 +21,7 @@ public class KeyboardObserver extends Thread {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         frame.setUndecorated(true);
-        frame.setSize(400, 400);
+        frame.setSize(500, 500);
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
         frame.setLayout(new GridBagLayout());
 
